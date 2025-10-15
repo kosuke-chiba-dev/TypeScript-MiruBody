@@ -27,7 +27,7 @@
 - まずは**“見える化”**して気づきを得ることが、体型管理の第一歩という考えから命名
 
 
-<br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 ## スクリーンショット
 
@@ -49,7 +49,7 @@
 <p align="left">
   <img src="/screenshots/mirubody-default-s2.svg" width="50%" alt="MiruBody初期表示2(SP)" />
 </p>
-<br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 ### 2-1. 実際に、複数項目を選択した際の表示(PC)
 <p align="left">
